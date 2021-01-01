@@ -1,0 +1,39 @@
+.new{
+	border-style:solid;
+	border-width:.1rem;
+	border-color: green;
+	max-width:50rem;
+}
+
+
+
+
+.btn {
+	font-weight:700;
+	border-radius: 300px;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+.btn-xl{
+	padding:1rem 2rem;
+}
+
+.btn-success{
+	text-align:center;
+}
+
+
+
+
+.btn-success:hover {
+	background-color:black;
+	border-width: 4px;
+	border-color: black;
+
+
+}
+
+.buffer{
+	height:5rem;
+}
